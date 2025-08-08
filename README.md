@@ -181,7 +181,7 @@ features/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/example/dynamic-forms.git
+   git clone https://github.com/willianpinho/dynamic-forms.git
    cd dynamic-forms/dynamic-forms-android
    ```
 
